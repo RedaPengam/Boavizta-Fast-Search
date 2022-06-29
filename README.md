@@ -12,4 +12,4 @@ https://github.com/Boavizta/environmental-footprint-data/blob/main/boavizta-data
 - Dans *Apps Script*, supprimer tout le code de la fenêtre de code.
 - Copier le contenu du fichier Gsheet_script de ce repo.
 - Dans *Apps Script*, coller le contenu et sauvegarder.
-- Enjoy!
+- Enfin suivre les instructions dans la feuille "Tutoriel" de la *Google Sheet*.
