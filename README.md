@@ -1,6 +1,6 @@
  Voici des outils pratiques pour trouver/comparer l'empreinte carbone des équipements numériques :
  
-1. **Fiche_process** : Fichier texte conçu pour les collaborateurs d'une entreprise devant commander/comparer du nouveau matériel pour un projet, leur expliquant la méthode à employer pour parvenir rapidement à trouver l'empreinte carbone d'un/plusieurs équipement(s) précis.
+1. **Fiche_process.txt** : Fichier texte conçu pour les collaborateurs d'une entreprise devant commander/comparer du nouveau matériel pour un projet, leur expliquant la méthode à employer pour parvenir rapidement à trouver l'empreinte carbone d'un/plusieurs équipement(s) précis.
 
 2. **RechercheRapide.ipynb** : *Google Colaboratory Notebook* (Python) conçu pour une recherche rapide dans la base de données open source Boavizta sur l'empreinte carbone des équipements.
 https://github.com/Boavizta/environmental-footprint-data/blob/main/boavizta-data-us.csv
