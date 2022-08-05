@@ -16,4 +16,4 @@ https://github.com/Boavizta/environmental-footprint-data/blob/main/boavizta-data
 - Dans *Apps Script*, coller le contenu et sauvegarder.
 - Enfin suivre les instructions dans la feuille "Tutoriel" de la *Google Sheet*.
 
-4. *Dashboard IT Carbon Footprint.pdf* : A venir, l'application web transcription de la sauvegarde pdf de ce dashboard (*Google Data Studio*) de sensibilisation et visualisation de l'empreinte des équipements numériques.
+4. **Dashboard IT Carbon Footprint.pdf** : A venir, l'application web transcription de la sauvegarde pdf de ce dashboard (*Google Data Studio*) de sensibilisation et visualisation de l'empreinte des équipements numériques.
