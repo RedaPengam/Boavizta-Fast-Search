@@ -1,4 +1,4 @@
- Voici des outils pratiques pour trouver/comparer l'empreinte carbone des équipements numériques :
+ Voici quelques outils pratiques concernant l'empreinte carbone des équipements numériques :
  
 1. **Fiche_process.txt** : Fichier texte conçu pour les collaborateurs d'une entreprise devant commander/comparer du nouveau matériel pour un projet, leur expliquant la méthode à employer pour parvenir rapidement à trouver l'empreinte carbone d'un/plusieurs équipement(s) précis.
 
@@ -15,3 +15,5 @@ https://github.com/Boavizta/environmental-footprint-data/blob/main/boavizta-data
 - Copier le contenu du fichier Gsheet_script de ce repo.
 - Dans *Apps Script*, coller le contenu et sauvegarder.
 - Enfin suivre les instructions dans la feuille "Tutoriel" de la *Google Sheet*.
+
+4. *Dashboard IT Carbon Footprint.pdf* : A venir, l'application web transcription de la sauvegarde pdf de ce dashboard (*Google Data Studio*) de sensibilisation et visualisation de l'empreinte des équipements numériques.
