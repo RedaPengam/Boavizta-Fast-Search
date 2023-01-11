@@ -8,7 +8,7 @@ Voici quelques outils pratiques concernant l'empreinte carbone des équipements 
 https://github.com/Boavizta/environmental-footprint-data/blob/main/boavizta-data-us.csv
 
 3. **GSheet.xslx** : *Google Sheet* avec script conçu pour comparer le poids carbone de multiples équipements à la fois. Les étapes pour l'installation de l'outil sont un peu fastidieuses pour le moment mais cela fonctionne.
-- Uploader la spreadsheet (.xlsx) sur son google drive, puis l'ouvrir avec *Google Sheets*.
+- Uploader la spreadsheet XLSX sur son google drive, puis l'ouvrir avec *Google Sheets*.
 - Dans *Google Sheets* enregistrer la spreadsheet en tant que *Google Sheet*, puis l'ouvrir avec *Google Sheets*.
 - Dans l'onglet "Affichage" de *Google Sheets*, cliquer sur "Feuilles masquées" > "Afficher data".
 - Aller tout en bas de la feuille "data" et ajouter 1000 lignes.
@@ -18,4 +18,4 @@ https://github.com/Boavizta/environmental-footprint-data/blob/main/boavizta-data
 - Dans *Apps Script*, coller le contenu et sauvegarder.
 - Enfin suivre les instructions dans la feuille "Tutoriel" de la *Google Sheet*.
 
-4. **Dashboard_IT_Carbon_Footprint.pdf** : A venir, l'application web inspirée de la sauvegarde pdf de ce dashboard (*Google Data Studio*) de sensibilisation et visualisation de l'empreinte des équipements numériques.
+4. **Dashboard_IT_Carbon_Footprint.pdf** : A venir, l'application web inspirée de la sauvegarde PDF de ce dashboard (*Google Data Studio*) de sensibilisation et visualisation de l'empreinte des équipements numériques.
