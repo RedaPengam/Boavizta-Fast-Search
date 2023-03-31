@@ -20,8 +20,8 @@ https://github.com/Boavizta/environmental-footprint-data/blob/main/boavizta-data
    - Dans *Apps Script*, coller le contenu et sauvegarder.
    - Enfin suivre les instructions dans la feuille "Tutoriel" de la *Google Sheet*.
 
-4. **Extrait du "Dashboard_IT_Carbon_Footprint"** : <br/><br/>
-![Capture d'écran 2023-03-31 131049](https://user-images.githubusercontent.com/71394086/229105713-557e6f09-9da5-48a3-b214-333edbb4035e.png)
+4. **Extrait du dashboard conçu sur *Google Data Studio* : "IT Carbon Footprint"** <br/><br/>
+![Capture d'écran 2023-03-31 131049](https://user-images.githubusercontent.com/71394086/229112855-7ee89b31-bf8a-4d39-9a52-456e599bf28e.png)
 ![Capture d'écran 2023-03-31 131023](https://user-images.githubusercontent.com/71394086/229105721-10ee1b47-083c-4b4a-ba64-f3ea20800986.png)
 ![Capture d'écran 2023-03-31 131120](https://user-images.githubusercontent.com/71394086/229105709-7bba8e89-90ef-48ed-844d-7c7edd4bff67.png)
 ![image](https://user-images.githubusercontent.com/71394086/229106802-ce80b745-16a7-4fee-a5e0-404fc85ef67b.png)
