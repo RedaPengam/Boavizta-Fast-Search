@@ -1,4 +1,4 @@
-# Boavizta-Tools
+# Boavizta-Toolkit
 
 Voici quelques outils/livrables concernant l'empreinte carbone des équipements numériques, réalisés lors de mon stage de Master 1 chez Leroy Merlin France (2022) :
  
